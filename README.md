@@ -71,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1194" height="745" alt="image" src="https://github.com/user-attachments/assets/705ec191-0362-40f5-98dd-d35b88359431" />
 
 
 # PACKAGE DIAGRAM:
@@ -83,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1155" height="787" alt="image" src="https://github.com/user-attachments/assets/a4368603-5a7d-43d0-a0af-12ba498765bf" />
 
 
 
@@ -111,6 +113,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="983" height="835" alt="image" src="https://github.com/user-attachments/assets/9662854c-6aee-4681-8d5a-11cc3a4684d1" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
